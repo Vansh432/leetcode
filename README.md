@@ -54,7 +54,7 @@ Arrays • Strings • Hash Maps • Two Pointers • Sliding Window • Linked 
 | 🟢 Easy    | 302    |
 | 🟡 Medium  | 335    |
 | 🔴 Hard    | 32     |
-| **Total**  | **0**  |
+| **Total**  | **660**  |
 
 ---
 
